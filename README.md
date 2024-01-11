@@ -1,6 +1,6 @@
 # cv-2.4
 
-##Curriculo digital Rodolfo Parada que esta en desarrollo.
+##Curriculo digital Rodolfo Parada que esta en desarrollo. este proyecto es el proyecto que va creciendo para ser clonado dentro de github para luego ser deploy y ser visualisado y subirlo a github
 
 ## Recommended IDE Setup
 
