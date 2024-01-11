@@ -10,8 +10,9 @@
         alt="Descarga Aquí Cv"
         height="50"
       />
-      <button @click="descargarPDF">
-        <IMG src="http://gifs.gratis.es/informatica/download/02.gif" width="200" height="70"></IMG>
+      <button class="btn btn-primary" @click="descargarPDF">
+        Haz click Aquí
+        <!-- <img src="../assets/flecha-animada.gif" alt="" width="150" height="150" /> -->
       </button>
     </div>
   </div>
@@ -47,5 +48,9 @@ export default {
     display: flex;
     align-items: center;
   }
+}
+
+.btn {
+  margin: 20px;
 }
 </style>

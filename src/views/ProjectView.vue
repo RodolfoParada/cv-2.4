@@ -56,49 +56,51 @@ export default {
             'Descripción: Es un encriptador y desencriptador de mensajes, se utilizó metodologías First mobile Bem lenguajes de Javascript con Html y Css.',
           buttonText: 'Ver Proyecto',
           projectLink: 'https://rodolfoparada.github.io/ChallengerOneDesafio1/'
+        },
+        {
+          id: 7,
+          projectName: 'Web Anime',
+          projectDescription:
+            'Descripción: Es una página web que se utilizó ccs y html usando buenas practicas.',
+          buttonText: 'Ver Proyecto',
+          projectLink: 'https://rodolfoparada.github.io/webAnime/'
+        },
+        {
+          id: 8,
+          projectName: 'Web Hotel',
+          projectDescription:
+            'Descripción: Es una página web que se utilizó ccs y html usando buenas practicas.',
+          buttonText: 'Ver Proyecto',
+          projectLink: 'https://rodolfoparada.github.io/WebHotel/'
+        },
+        {
+          id: 9,
+          projectName: 'En desarrollo ',
+          projectDescription: 'Descripción: En desarrollo ',
+          buttonText: 'Ver Proyecto',
+          projectLink: ''
+        },
+        {
+          id: 10,
+          projectName: 'En desarrollo ',
+          projectDescription: 'Descripción: En desarrollo ',
+          buttonText: 'Ver Proyecto',
+          projectLink: ''
+        },
+        {
+          id: 11,
+          projectName: 'En desarrollo ',
+          projectDescription: 'Descripción: En desarrollo ',
+          buttonText: 'Ver Proyecto',
+          projectLink: ''
+        },
+        {
+          id: 12,
+          projectName: 'En desarrollo ',
+          projectDescription: 'Descripción: En desarrollo ',
+          buttonText: 'Ver Proyecto',
+          projectLink: ''
         }
-        // {
-        //   id: 7,
-        //   projectName: 'Sin Nombre',
-        //   projectDescription: 'Descripción: Sin descripcion',
-        //   buttonText: 'Ver Proyecto',
-        //   projectLink: ''
-        // },
-        // {
-        //   id: 8,
-        //   projectName: 'Sin Nombre',
-        //   projectDescription: 'Descripción: Sin descripcion',
-        //   buttonText: 'Ver Proyecto',
-        //   projectLink: ''
-        // },
-        // {
-        //   id: 9,
-        //   projectName: 'Sin Nombre',
-        //   projectDescription: 'Descripción: Sin descripcion',
-        //   buttonText: 'Ver Proyecto',
-        //   projectLink: ''
-        // },
-        // {
-        //   id: 10,
-        //   projectName: 'Sin Nombre',
-        //   projectDescription: 'Descripción: Sin descripcion',
-        //   buttonText: 'Ver Proyecto',
-        //   projectLink: ''
-        // },
-        // {
-        //   id: 11,
-        //   projectName: 'Sin Nombre',
-        //   projectDescription: 'Descripción: Sin descripcion',
-        //   buttonText: 'Ver Proyecto',
-        //   projectLink: ''
-        // },
-        // {
-        //   id: 12,
-        //   projectName: 'Sin Nombre',
-        //   projectDescription: 'Descripción: Sin descripcion',
-        //   buttonText: 'Ver Proyecto',
-        //   projectLink: ''
-        // }
       ],
       pageSize: 6,
       page: 1
